@@ -1,3 +1,15 @@
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+
+
+title: "Mikail Toraman"
+name: "Mikail Toraman"
+description: "Maschinenbau-Student an der RWTH Aachen"
+url: "https://mikailtoraman.com"
+
+#Informationen
+author:
+  name: "Mikail Toraman"
+  bio: "Business Administration and Engineering: Mechanical Engineering"
+  location: "Aachen, Germany"
